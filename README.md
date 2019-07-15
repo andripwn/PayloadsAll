@@ -6,7 +6,7 @@ I :heart: pull requests :)
 
 You can also contribute with a :beers: IRL or with `buymeacoffee.com`
 
-[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/swissky)
+[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/andripwn)
 
 Every section contains the following files, you can use the `_template_vuln` folder to create a new chapter:
 
@@ -52,4 +52,4 @@ You might also like the `Methodology and Resources` folder :
     - WebLogic CVE-2018-2894.py
     - WebSphere CVE-2015-7450.py
 
-You want more ? Check the [Books](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/BOOKS.md) and [Youtube videos](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/YOUTUBE.md) selections.
+You want more ? Check the [Books](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/BOOKS.md) and [Youtube videos](https://github.com/andripwn/PayloadsAllTheThings/blob/master/YOUTUBE.md) selections.
